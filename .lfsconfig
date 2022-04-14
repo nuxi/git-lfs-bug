@@ -1,2 +1,2 @@
 [lfs]
-	fetchinclude = foo
+	fetchinclude = foo/should_be_a_binary.bin
